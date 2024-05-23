@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -18,9 +18,6 @@
   },
   "homepage": "https://github.com/NicoleBrubaker/Logo-Maker#readme",
   "dependencies": {
-    "inquirer": "^9.2.15"
-  },
-  "devDependencies": {
-    "jest": "^29.5.0"
+    "inquirer": "^8.2.4"
   }
 }
